@@ -1,6 +1,6 @@
 The following tutorial assumes that you are using the Melodic ROS version.
 
-STEPS TO FOLLOW:
+STEPS TO FOLLOW: 
 1-Download and install both packages in your catkin workspace.
 
 2-Use the "$ catkin_make" command to build your workspace.
@@ -36,3 +36,6 @@ database.
 "display" : Display the current state of the database.
 
 "spc" : Turn on/off the stone-paper-scissors game.
+
+
+If you have any questions, please contact me at marcheixb1997@live.fr
